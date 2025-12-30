@@ -1,0 +1,1 @@
+console.log("Hello word with javascript with khanh")
